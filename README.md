@@ -44,7 +44,7 @@ What it covers: Core detection strategies, performance and scalability concerns,
 
 Link to the article:
 
-IEEE Spectrum: Antivirus Software (overview and context for the book)
+<a href="https://spectrum.ieee.org/antivirus-software">IEEE Spectrum: Antivirus Software (overview and context for the book)</a>
 
 Note: Direct article content isn’t reproduced here. For details, see the IEEE Spectrum piece and the book it references. If adding this section to your README, consider also including a short “Further reading” list (e.g., academic surveys on malware detection, engine architecture whitepapers) to provide additional context for contributors.
 
