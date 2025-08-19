@@ -47,10 +47,10 @@ Link to the article:
 Note: Direct article content isn’t reproduced here. For details, see the IEEE Spectrum piece and the book it references. If adding this section to your README, consider also including a short “Further reading” list (e.g., academic surveys on malware detection, engine architecture whitepapers) to provide additional context for contributors.
 
 
-
 # Dedication
 I dedicated this book to the people of Europe because their collective story is a testament to cooperation across borders, perseverance in the face of adversity, and an enduring commitment to knowledge and progress. Europe’s legacy of curiosity, debate, and innovation served as a key inspiration throughout the writing process. My hope is that this book, in some small way, reflects the diverse strengths and shared aspirations found across the continent.
 
+![Dedication](https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/dedication.png)
 
 # References
 
