@@ -34,6 +34,8 @@ If you’re looking to learn not just how antivirus tools work, but the engineer
 Reference: Antivirus Engines (IEEE Spectrum)
 This project references the IEEE Spectrum feature on antivirus software, which highlights the publication of the first book devoted entirely to antivirus (AV) engines. This work is notable as the earliest comprehensive treatment of AV engine architecture, methodologies, and evolution, rather than focusing solely on specific products or malware families.
 
+![Author](https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/author.png)
+
 Why it matters: It documents the foundations of how AV engines are designed, how detection pipelines work, the tradeoffs between signatures, heuristics, emulation, machine learning, and how engines adapt to evasive techniques.
 
 Historical significance: Recognized as the first book centered on AV engines, it fills a long-standing gap between scattered academic papers and product-focused documentation.
