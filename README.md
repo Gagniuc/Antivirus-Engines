@@ -58,3 +58,36 @@ I dedicated this book to the people of Europe because their collective story is 
 
 - <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations and Applications, Elsevier, Syngress, 2024, pp. 1-656.</i>
 
+
+
+
+
+<details>
+<summary>More [+]</summary>
+
+# Antivirus Engines: From Methods to Innovations, Design, and Applications
+
+A go-to resource for those wanting to fully explore the subject of antivirus software, whether they are brushing up on specifics or approaching the topic for the first time.
+
+## Overview
+
+*Antivirus Engines: From Methods to Innovations and Design* offers an in-depth investigation into the intricacies and advancements in antivirus technology, aimed at professionals and enthusiasts in the field of cybersecurity. This comprehensive guide explores the evolution of detection methods, spanning from traditional signature-based approaches to sophisticated heuristic, behavior-based, and machine learning algorithms that protect against emerging threats. Readers will find detailed analyses of various antivirus solutions, exploring their structure, functionality, and the underlying technologies that ensure robust defense mechanisms against malware.
+
+The second part of the book focuses extensively on practical applications in Python and the design of antivirus systems. It addresses the challenges and techniques involved in creating effective malware scanners, discussing the integration of complex algorithms such as hash tables, Aho-Corasick, and Bloom filters in the context of large-scale signature databases. The text also covers the strategic deployment of these systems within different environments to maximize threat detection and system efficiency. Moreover, it highlights the critical role of interprocess communication and the architecture of client-server models in the scaling and management of antivirus operations.
+
+This resource is indispensable for those looking to enhance their understanding of the technical aspects and operational frameworks of antivirus software, providing the tools and insights necessary to navigate and innovate within this critical area of cybersecurity.
+
+## Key Features
+
+- **Explore Detection Methods**: Learn how antivirus programs utilize a variety of detection methods including signature-based, heuristic, and behavior-based techniques to identify and neutralize threats. This includes innovative uses of machine learning and cloud-based solutions designed to enhance the accuracy and speed of threat detection.
+- **Insights into Malware Detection**: Gain insights into the methods and challenges involved in the detection and analysis of malware, including the use of polymorphism, encryption, and other evasion techniques that malware authors employ to thwart detection.
+- **Advanced Algorithms**: Understand the application of complex algorithms like Aho-Corasick and Markov Chains in the development of malware scanners and how these contribute to the robustness of detecting known and possible threats.
+- **Systematic Categorization**: The main text systematically categorizes various methods for detection and analysis of exploits and malware, including detailed discussions on opcode analysis, pattern matching, and the utilization of cryptographic techniques in malware identification.
+
+## About the Author
+
+Dr. Paul A. Gagniuc is a professor of programming languages at National University of Science and Technology Politehnica Bucharest (NUSTPB) in Romania. Over a period of a decade, Dr. Gagniuc provided an original learning experience for many generations of students from many parts of the world. Dr. Gagniuc is the author of the most cited book in the 200 years history of NUSTPB. He has published numerous high-profile scientific research articles, patents, books and is the recipient of several awards for exceptional scientific results. Moreover, he is the creator of an antivirus project called Scut Antivirus, from which he brings his security expertise, and is also in a teaching position with the Military Technical Academy "Ferdinand I" on security matters.
+
+</details>
+
+
