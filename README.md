@@ -26,9 +26,6 @@ Industry Impact: This work facilitates new understanding and advances in the ong
 If you’re looking to learn not just how antivirus tools work, but the engineering principles and technical breakthroughs behind them, this book—as introduced by IEEE Spectrum—represents a must-read and unique contribution to the cybersecurity field.
 
 
-
-
-
 ---------------
 
 Reference: Antivirus Engines (IEEE Spectrum)
@@ -36,9 +33,9 @@ This project references the IEEE Spectrum feature on antivirus software, which h
 
 ![Author](https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/author.png)
 
-Why it matters: It documents the foundations of how AV engines are designed, how detection pipelines work, the tradeoffs between signatures, heuristics, emulation, machine learning, and how engines adapt to evasive techniques.
+The book documents the foundations of how AV engines are designed, how detection pipelines work, the tradeoffs between signatures, heuristics, emulation, machine learning, and how engines adapt to evasive techniques.
 
-Historical significance: Recognized as the first book centered on AV engines, it fills a long-standing gap between scattered academic papers and product-focused documentation.
+Recognized as the first book centered on AV engines, it fills a long-standing gap between scattered academic papers and product-focused documentation.
 
 What it covers: Core detection strategies, performance and scalability concerns, packer/unpacker integration, sandboxing/emulation, signature lifecycle, telemetry/feedback loops, and future directions for engine design.
 
@@ -46,7 +43,7 @@ Link to the article:
 
 <a href="https://spectrum.ieee.org/antivirus-software">IEEE Spectrum: Antivirus Software</a> (overview and context for the book)
 
-Note: Direct article content isn’t reproduced here. For details, see the IEEE Spectrum piece and the book it references. If adding this section to your README, consider also including a short “Further reading” list (e.g., academic surveys on malware detection, engine architecture whitepapers) to provide additional context for contributors.
+Note: Direct article content is not reproduced here. For details, see the IEEE Spectrum piece and the book it references. If adding this section to your README, consider also including a short “Further reading” list (e.g., academic surveys on malware detection, engine architecture whitepapers) to provide additional context for contributors.
 
 
 # Dedication
