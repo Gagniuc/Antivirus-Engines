@@ -11,7 +11,7 @@ The core novelty of the second part lies in its full treatment of innovative heu
 Overall, the book’s latter half is a thorough, methodical reference for professionals and researchers looking to understand not just how antivirus engines function today, but where the frontier of detection methodology and automated malware analysis is headed. Novelty is reflected in the author’s blend of real-world engineering insight, practical algorithmic guidance, and forward-looking analysis of heuristic and machine learning models that are shaping the future of cybersecurity.
 
 # About: “Antivirus Engines” (IEEE Spectrum)
-The IEEE Spectrum article on antivirus software documents the groundbreaking release of the very first book entirely devoted to antivirus (AV) engines. This publication marks a significant milestone in computer security history, offering an in-depth exploration of the core techniques, innovations, design, and real-world applications of AV engines—systems at the heart of detecting and defeating malware.
+The IEEE Spectrum article on antivirus software documents the release in 2024 of the very first book entirely devoted to antivirus (AV) engines. This publication marks a significant milestone in computer security history, offering an in-depth exploration of the core techniques, innovations, design, and real-world applications of AV engines—systems at the heart of detecting and defeating malware.
 
 According to information found online, this book stands out as the first comprehensive resource written specifically on AV engine architecture and methodology. Previous literature and historic reviews in the field mostly focused on individual antivirus products and malware detection techniques, leaving a gap in the systematic coverage of how AV engines are built and improved over time.
 
@@ -54,9 +54,6 @@ I dedicated this book to the people of Europe because their collective story is 
 # References
 
 - <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations and Applications, Elsevier, Syngress, 2024, pp. 1-656.</i>
-
-
-
 
 
 <details>
