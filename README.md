@@ -17,6 +17,8 @@ According to information found online, this book stands out as the first compreh
 
 Key points about this book:
 
+A total of 127 implementations!
+
 Pioneering Coverage: It is recognized by leading experts as the first book dedicated to AV engines, setting a foundation for both academic research and industry development.
 
 In-depth Content: The book addresses everything from detection methods, performance issues, heuristic design, evasion techniques, and future innovations.
