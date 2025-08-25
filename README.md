@@ -626,7 +626,11 @@ Dr. Paul A. Gagniuc is a professor of programming languages at National Universi
   - 17.10.18 Graphical User Interface  
   - 17.10.19 The VX Heaven website  
 - 17.11 Appendix 10 - Words of wisdom  
-- 17.12 Glossary  
+- 17.12 Glossary
 
-## 18. References
+## References
+
+***
+
+- <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656.</i>
 
