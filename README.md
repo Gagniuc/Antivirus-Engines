@@ -4,11 +4,11 @@ The book <a href="https://shop.elsevier.com/books/antivirus-engines/gagniuc/978-
 
 > **Note:** The repositories below showcase a few demo algorithmic implementations provided from the total of 127 algorithms presented in 
 > *Antivirus Engines: From Methods to Innovations, Design, and Applications* (Elsevier Syngress, 2024). You may find these standalone tools insightful:
-> - [The Bloom filter](https://github.com/Gagniuc/The-Bloom-filter)  
-> - [Aho-Corasick algorithm](https://github.com/Gagniuc/Aho-Corasick-algorithm)
-> - [Aho–Corasick Native Malware Scanner](https://github.com/Gagniuc/Aho-Corasick-Native-Malware-Scanner)  
-> - [Optimized HEX Signature Scanner](https://github.com/Gagniuc/Aho-Corasick-Native-Malware-Scanner)  
-> - [Hexadecimal Signature Extractor for Aho–Corasick](https://github.com/Gagniuc/Hexadecimal-Signature-Extractor-for-Aho-Corasick)
+> - [Ex. (20) - The Bloom filter](https://github.com/Gagniuc/The-Bloom-filter)  
+> - [Ex. (19) - Aho-Corasick algorithm](https://github.com/Gagniuc/Aho-Corasick-algorithm)
+> - [Ex. (52) - Aho–Corasick Native Malware Scanner](https://github.com/Gagniuc/Aho-Corasick-Native-Malware-Scanner)  
+> - [Ex. (49) - Optimized HEX Signature Scanner](https://github.com/Gagniuc/Aho-Corasick-Malware-Scanner)  
+> - [Ex. (42) - Hexadecimal Signature Extractor for Aho–Corasick](https://github.com/Gagniuc/Hexadecimal-Signature-Extractor-for-Aho-Corasick)
 
 In the second part, the book systematically dissects the full spectrum of detection techniques employed by modern antivirus engines, moving from classic signature-based scanning to advanced heuristic, algorithmic, and behavioral approaches. It presents in detail the algorithms behind signature matching, such as the use of hash tables, the Aho-Corasick algorithm, Bloom filters, and large-scale hash signature optimization, focusing on the scalability challenges as malware volumes soar. The text goes beyond mere description, presenting new comparative analyses of single and dual MD5/SHA signatures, recursive scan logic, and binary search on massive signature databases, introducing practical algorithms for real-world implementation.
 
