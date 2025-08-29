@@ -4,7 +4,9 @@ The book <a href="https://shop.elsevier.com/books/antivirus-engines/gagniuc/978-
 
 In the second part, the book systematically dissects the full spectrum of detection techniques employed by modern antivirus engines, moving from classic signature-based scanning to advanced heuristic, algorithmic, and behavioral approaches. It presents in detail the algorithms behind signature matching, such as the use of hash tables, the Aho-Corasick algorithm, Bloom filters, and large-scale hash signature optimization, focusing on the scalability challenges as malware volumes soar. The text goes beyond mere description, presenting new comparative analyses of single and dual MD5/SHA signatures, recursive scan logic, and binary search on massive signature databases, introducing practical algorithms for real-world implementation.
 
-![Antivirus Engines Cover](https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/antivirus_front.png)
+<div align="center">
+  <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/antivirus_front.png" alt="Antivirus Engines: From Methods to Innovations, Design, and Applications">
+</div>
 
 The core novelty of the second part lies in its full treatment of innovative heuristic and AI-powered techniques. The book introduces and unpacks multiparametric heuristics, region-based and information-content-driven signature strategies, Markov chain analysis, perceptron-based heuristics, byte frequency analysis, and genetic algorithm-driven signature convergence—all supported by concrete example code and critical assessment of their detection accuracy. It further explores smart heuristics for context-aware file analysis (including header/extension discrepancies, file hiding, and archive content scanning), real-time process and behavior monitoring, and network-layer integration with process-port correlation. The chapters on disinfection mechanisms and malware banks (vaults, banks, and curator strategies) bring a unique perspective on resilience and post-infection remediation, rounding out the modern vision for autonomous, adaptive antivirus technologies.
 
