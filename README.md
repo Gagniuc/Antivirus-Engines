@@ -2,6 +2,11 @@
 
 The book <a href="https://shop.elsevier.com/books/antivirus-engines/gagniuc/978-0-443-32952-4">Antivirus Engines: From Methods to Innovations, Design, and Applications</a> shows a comprehensive exploration of antivirus engine technologies and their evolution in response to the complex cyber threat landscape. While the first part of the book provides detailed foundational knowledge about operating systems, internet infrastructure, cryptography, and the historical context of malware and defenses, the second part stands out for its deep technical dive into the methodologies and novel solutions driving the next generation of antivirus detection and countermeasures.
 
+> **Note:** This repository hosts a collection of algorithmic implementations featured in *Antivirus Engines: From Methods to Innovations, Design, and Applications*. You may also find the following standalone tools insightful:
+> - [Aho–Corasick Native Malware Scanner](https://github.com/Gagniuc/Aho-Corasick-Native-Malware-Scanner)
+> - [Optimized HEX Signature Scanner](https://github.com/Gagniuc/Aho-Corasick-Native-Malware-Scanner)
+> - [Hexadecimal Signature Extractor for Aho–Corasick](https://github.com/Gagniuc/Hexadecimal-Signature-Extractor-for-Aho-Corasick)
+
 In the second part, the book systematically dissects the full spectrum of detection techniques employed by modern antivirus engines, moving from classic signature-based scanning to advanced heuristic, algorithmic, and behavioral approaches. It presents in detail the algorithms behind signature matching, such as the use of hash tables, the Aho-Corasick algorithm, Bloom filters, and large-scale hash signature optimization, focusing on the scalability challenges as malware volumes soar. The text goes beyond mere description, presenting new comparative analyses of single and dual MD5/SHA signatures, recursive scan logic, and binary search on massive signature databases, introducing practical algorithms for real-world implementation.
 
 <div align="center">
