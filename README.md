@@ -426,7 +426,7 @@ Dr. Paul A. Gagniuc is a professor of programming languages at National Universi
 ## 12. Hexadecimal Signatures & Scanners
 - 12.1 Introduction  
 - 12.2 Hexadecimal inspection  
-  - 12.2.1 Alignment of multiple files in hexadecimal (raw)  
+  - 12.2.1 <a href="https://github.com/Gagniuc/Hexadecimal-Signature-Extractor-for-Aho-Corasick">Alignment of multiple files in hexadecimal (raw)</a>
   - 12.2.2 Header alignment of two files (inf vs normal)  
   - 12.2.3 Pairwise sequence alignment of 2 files (infected vs clean)  
 - 12.3 Automatic signature extraction  
@@ -436,11 +436,11 @@ Dr. Paul A. Gagniuc is a professor of programming languages at National Universi
   - 12.4.1 A primitive malware scanner with wildcard support  
 - 12.5 Malware scanners with Aho-Corasick algorithm  
   - 12.5.1 In-Deep - Malware Scanner  
-  - 12.5.2 High speed - Malware scanner  
+  - 12.5.2 <a href="https://github.com/Gagniuc/Aho-Corasick-Malware-Scanner">High speed - Malware scanner</a> 
 - 12.6 Scanner speed and Malware location  
   - 12.6.1 In-depth scanner (with libraries)  
   - 12.6.2 Optimized scanner (with libraries)  
-  - 12.6.3 Optimized scanner (native Aho-Corasick)  
+  - 12.6.3 <a href="https://github.com/Gagniuc/Aho-Corasick-Native-Malware-Scanner">Optimized scanner (native Aho-Corasick)</a> 
   - 12.6.4 Results and Discussion  
 - 12.7 Polymorphic Malware Scanner: Wildcards  
   - 12.7.1 The meaning of wildcards  
