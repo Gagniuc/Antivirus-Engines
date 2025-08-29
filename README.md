@@ -1,4 +1,4 @@
-# Antivirus-Engines
+# Antivirus Engines
 
 The book <a href="https://shop.elsevier.com/books/antivirus-engines/gagniuc/978-0-443-32952-4">Antivirus Engines: From Methods to Innovations, Design, and Applications</a> shows a comprehensive exploration of antivirus engine technologies and their evolution in response to the complex cyber threat landscape. While the first part of the book provides detailed foundational knowledge about operating systems, internet infrastructure, cryptography, and the historical context of malware and defenses, the second part stands out for its deep technical insight into the methodologies and novel solutions driving the next generation of antivirus detection and countermeasures.
 
