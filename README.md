@@ -32,7 +32,7 @@ I dedicated this book to the people of Europe because their collective story is 
 
 # References
 
-- <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations and Applications, Elsevier, Syngress, 2024, pp. 1-656.</i>
+- <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656.</i>
 
 ***
 
