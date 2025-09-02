@@ -25,6 +25,10 @@ The core novelty of the second part lies in its full treatment of innovative heu
 # About: “Antivirus Engines” (IEEE Spectrum)
 The <a href="https://spectrum.ieee.org/antivirus-software">IEEE Spectrum</a> article on antivirus software documents the release in 2024 of the very first book devoted to antivirus (AV) engines. This publication marks a significant milestone in computer security history, offering an in-depth exploration of the core techniques, innovations, design, and real-world applications of AV engines-systems at the heart of detecting and defeating malware. Key points about this book: a) It contains a total of 127 implementations. b) Acknowledged by IEEE Spectrum as the first book dedicated to antivirus engines, it establishes a foundation for both academic research and industry development. c) It covers a broad spectrum of topics, including detection methods, performance issues, heuristic design, evasion techniques, and future innovations. d) This work contributes to new understanding and advances in the ongoing battle against cyber threats. If you are looking to learn not only how antivirus tools work, but also the engineering principles and technical breakthroughs behind them, this book, as introduced by <a href="https://spectrum.ieee.org/antivirus-software">IEEE Spectrum</a>, is a must-read and a unique contribution to the cybersecurity field. Link to the article: <a href="https://spectrum.ieee.org/antivirus-software">IEEE Spectrum: Antivirus Software</a> (overview and context for the book)
 
+<div align="center">
+  <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/author.png" alt="Antivirus Engines: From Methods to Innovations, Design, and Applications">
+</div>
+
 # Dedication
 I dedicated this book to the people of Europe because their collective story is a testament to cooperation across borders, perseverance in the face of adversity, and an enduring commitment to knowledge and progress. Europe’s legacy of curiosity, debate, and innovation served as a key inspiration throughout the writing process. My hope is that this book, in some small way, reflects the diverse strengths and shared aspirations found across the continent.
 
@@ -63,8 +67,6 @@ This resource is indispensable for those looking to enhance their understanding 
 Dr. Paul A. Gagniuc is a professor of programming languages at National University of Science and Technology Politehnica Bucharest (NUSTPB) in Romania. Over a period of a decade, Dr. Gagniuc provided an original learning experience for many generations of students from many parts of the world. Dr. Gagniuc is the author of the most cited book in the 200 years history of NUSTPB. He has published numerous high-profile scientific research articles, patents, books and is the recipient of several awards for exceptional scientific results. Moreover, he is the creator of an antivirus project called Scut Antivirus, from which he brings his security expertise, and is also in a teaching position with the Military Technical Academy "Ferdinand I" on security matters.
 
 </details>
-
-
 
 
 # Table of Contents
