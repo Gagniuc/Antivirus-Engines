@@ -337,7 +337,7 @@ Dr. Paul A. Gagniuc is a professor of programming languages at National Universi
 - 9.1 Introduction  
 - 9.2 Signature matching with some examples  
 - 9.3 The signature lookup process  
-  - 9.3.1 Hash Tables  
+  - 9.3.1 <a href="https://github.com/Gagniuc/Hash-table">Hash Tables</a>
   - 9.3.2 Hash Tables (native)  
   - 9.3.3 <a href="https://github.com/Gagniuc/Aho-Corasick-algorithm">Aho-Corasick Algorithm</a>
 - 9.4 The hundred million hash signature file  
