@@ -4,6 +4,7 @@ The book <a href="https://shop.elsevier.com/books/antivirus-engines/gagniuc/978-
 
 > **Note:** The repositories below showcase a few demo algorithmic implementations provided from the total of 127 algorithms presented in 
 > *Antivirus Engines: From Methods to Innovations, Design, and Applications* (Elsevier Syngress, 2024). You may find these standalone tools insightful:
+> - [Ex. (17) - The Hash table](https://github.com/Gagniuc/Hash-table)
 > - [Ex. (19) - Aho-Corasick algorithm](https://github.com/Gagniuc/Aho-Corasick-algorithm)
 > - [Ex. (20) - The Bloom filter algorithm](https://github.com/Gagniuc/The-Bloom-filter)
 > - [Ex. (42) - Hexadecimal Signature Extractor](https://github.com/Gagniuc/Hexadecimal-Signature-Extractor-for-Aho-Corasick)
