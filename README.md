@@ -21,6 +21,17 @@ In the second part, the book systematically dissects the full spectrum of detect
 
 ***
 
+In addition to this book, there is also a course (taught in Romanian) that I teach at the 
+<a href="https://github.com/Gagniuc/Academia-Tehnica-Militara" target="_blank">
+<i>Military Technical Academy “Ferdinand I”</i>
+</a>. The course covers both fundamental concepts and advanced techniques in 
+<i>malware analysis</i>, <i>detection</i>, and <i>reverse engineering</i>, 
+and can serve as a valuable supplementary resource for readers interested in 
+deepening the topics presented in the book.
+
+
+***
+
 The core novelty of the second part lies in its full treatment of innovative heuristic techniques. The book introduces and unpacks multiparametric heuristics, region-based and information-content-driven signature strategies, Markov chain analysis, perceptron-based heuristics, byte frequency analysis, and genetic algorithm-driven signature convergence-all supported by concrete example code and critical assessment of their detection accuracy. It further explores smart heuristics for context-aware file analysis (including header/extension discrepancies, file hiding, and archive content scanning), real-time process and behavior monitoring, and network-layer integration with process-port correlation. The chapters on disinfection mechanisms and malware banks (vaults, banks, and curator strategies) bring a unique perspective on resilience and post-infection remediation, rounding out the modern vision for autonomous, adaptive antivirus technologies. The latter half of the book is a thorough, methodical reference for professionals and researchers looking to understand not just how antivirus engines function today, but where the frontier of detection methodology and automated malware analysis is headed. The novelty lies in the integration of engineering insight gained from the <i>Scut Antivirus</i> project, practical algorithmic guidance, and forward-looking analysis of heuristic and machine learning models that are shaping the future of cybersecurity.
 
 # About: “Antivirus Engines” (IEEE Spectrum)
